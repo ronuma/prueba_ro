@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110850396937",
+    "project_id": "prueba-ro",
+    "storage_bucket": "prueba-ro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110850396937:android:23649c69ae53ec97e679d8",
+        "android_client_info": {
+          "package_name": "rodrigonuma.prueba_ro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110850396937-m20q5rcvh7u5ubr5ologq4hkknkd2hff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtNNkLFC9n5n7wOZTPoPjQ2Uzqg1xv_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110850396937-m20q5rcvh7u5ubr5ologq4hkknkd2hff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

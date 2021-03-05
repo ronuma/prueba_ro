@@ -1,0 +1,36 @@
+name: prueba_ro
+description: A new Flutter application.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+  firebase_core: ^0.7.0
+  firebase_auth: ^0.20.0+1
+  cloud_firestore: ^0.16.0
+  youtube_player_flutter: ^7.0.0+7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: MontserratAlternate
+      fonts:
+        - asset: fonts/MontserratAlternates-Regular.ttf
